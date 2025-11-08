@@ -38,7 +38,7 @@ Project has one route `/api/search` which is attached to `search.controller.ts` 
 
 Functions have typesafe implemetation
 
-// sample search request
+// sample search request to backend api
 
 ```bash
 curl --location 'http://localhost:8000/api/search' \
