@@ -25,6 +25,8 @@ cd backend
 npm i && npm run dev
 ```
 
+![Search UI screenshot](./projectss.png)
+
 ## Project implementaion details
 
 > Backend
