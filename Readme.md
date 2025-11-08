@@ -6,7 +6,7 @@
 Clone project
 
 ```bash
-git pull
+git pull https://github.com/4joejoe/mini-fullstack-search.git
 ```
 
 Run Project
