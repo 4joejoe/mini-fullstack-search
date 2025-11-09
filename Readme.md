@@ -19,12 +19,15 @@ cd frontend
 npm i && npm run dev
 ```
 
-backend
+backend (in second terminal window)
 
 ```bash
 cd backend
 npm i && npm run dev
 ```
+then this link in browser
+`http://localhost:3000`
+
 
 ![Search UI screenshot](./projectss.png)
 
