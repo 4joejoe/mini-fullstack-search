@@ -16,7 +16,7 @@ frontend
 
 ```bash
 cd frontend
-npm i && npn run dev
+npm i && npm run dev
 ```
 
 backend
